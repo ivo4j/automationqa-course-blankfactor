@@ -12,7 +12,7 @@ class StringToInteger {
         string string1 = Console.ReadLine();
         bool res1 = Int32.TryParse(string1,out num1);
 
-        Console.WriteLine("Hello, please enter a second number:");
+        Console.WriteLine("Please enter a second number:");
         string string2 = Console.ReadLine();
         bool res2 = Int32.TryParse(string2,out num2);
         

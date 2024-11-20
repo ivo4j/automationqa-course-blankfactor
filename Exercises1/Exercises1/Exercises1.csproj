@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Lecture3\" />
+    <Folder Include="Conditionals\" />
   </ItemGroup>
 
 </Project>

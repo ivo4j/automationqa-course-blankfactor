@@ -3,3 +3,13 @@ C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exe
 C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.AssemblyInfo.cs
 C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.csproj.CoreCompileInputs.cache
 C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.sourcelink.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\App1.exe
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\App1.deps.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\App1.runtimeconfig.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\App1.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\App1.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\refint\App1.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.genruntimeconfig.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\ref\App1.dll

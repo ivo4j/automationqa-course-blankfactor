@@ -2,9 +2,9 @@
 using System.ComponentModel.Design;
 using App1.Types;
 
-
-static void Main() 
+static void Main(string[] args)
 {
+
     int selection = 0;
     do
     {
@@ -18,20 +18,26 @@ static void Main()
     }
     while (selection < 1 || selection > 6);
 
-    switch (selection) {
+    switch (selection)
+    {
 
-        case 1: var startTask = new ConvertAndAdd();  startTask.Convert();
+        case 1:
+            var startTask = new ConvertAndAdd(); startTask.Convert();
             break;
-        case 2: var secondTask = new FormatFullName(); secondTask.Format();
+        case 2:
+            var secondTask = new FormatFullName(); secondTask.Format();
             break;
-        case 3: var thirdTask = new ModifySubstring(); thirdTask.Modify();
+        case 3:
+            var thirdTask = new ModifySubstring(); thirdTask.Modify();
             break;
-        case 4: var fourthTask = new CalculateArea(); fourthTask.Calculate();
+        case 4:
+            var fourthTask = new CalculateArea(); fourthTask.Calculate();
             break;
-        case 5: var fifthTask = new ValidateAge(); fifthTask.Validate();
+        case 5:
+            var fifthTask = new ValidateAge(); fifthTask.Validate();
             break;
         default:
-        break;
+            break;
     }
 }
 

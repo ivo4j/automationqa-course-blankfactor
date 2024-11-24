@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercises.Conditionals
+namespace App2.Conditionals
 {
     internal class FishingTrip
     {

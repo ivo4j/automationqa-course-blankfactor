@@ -1,0 +1,5 @@
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.AssemblyInfoInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.AssemblyInfo.cs
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\App1.sourcelink.json

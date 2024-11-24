@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Conditionals;
+namespace App2.Conditionals;
 
 internal class CinemaHall
 {
@@ -30,7 +30,8 @@ internal class CinemaHall
         Console.WriteLine("Please enter a number of columns for the screening:");
         columns = int.Parse(Console.ReadLine());
 
-        switch (screeningChoice) {
+        switch (screeningChoice)
+        {
             case "Premiere": premiereProfit = 12.00 * rows * columns; break;
             case "Normal": normalProfit = 7.50 * rows * columns; break;
             case "Discount": discountProfit = 5.00 * rows * columns; break;
@@ -38,6 +39,6 @@ internal class CinemaHall
 
         double totalSum = premiereProfit + normalProfit + discountProfit;
         Console.WriteLine($"The totalsum is {totalSum}");
-        
+
     }
 }

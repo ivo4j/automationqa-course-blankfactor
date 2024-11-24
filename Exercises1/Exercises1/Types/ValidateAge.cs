@@ -4,11 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercises1
+namespace App1.Types
 {
     internal class ValidateAge
     {
-        static void Main()
+
+        /* Task 5: Validate Age Input
+Objective: Ask the user to enter their age. Use TryParse() to check if the input is a valid integer, and display a message based on whether the age is valid or not.
+Instructions: If TryParse returns false, display "Invalid age entered."  */
+        internal void Validate()
         {
             int age;
             Console.WriteLine("Please enter your age:");

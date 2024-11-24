@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercises1
+namespace App1.Types
 {
+    /* Task 4: Calculate the Area of a Circle
+Objective: Prompt the user to input the radius as a string, convert it to a double, and calculate the area using the formula π * radius * radius.
+Instructions: Use double.Parse() and math operations. Display the result as a formatted string with two decimal places  */
     public class CalculateArea
     {
-        void Calculate()
+        public void Calculate()
         {
             Console.WriteLine("Hello, please enter the radius of the circle:");
             string string1 = Console.ReadLine();

@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|solutionrelative:exercises2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\Types.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\Types.csproj|solutionrelative:exercises1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\Types.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\convertandadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\Types.csproj|solutionrelative:exercises1\\convertandadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\types\\validateage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|solutionrelative:exercises1\\types\\validateage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\types\\calculatearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|solutionrelative:exercises1\\types\\calculatearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\types\\modifysubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|solutionrelative:exercises1\\types\\modifysubstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\types\\formatfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|solutionrelative:exercises1\\types\\formatfullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises1\\types\\convertandadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}|Exercises1\\App1.csproj|solutionrelative:exercises1\\types\\convertandadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +46,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConvertAndAdd.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\ConvertAndAdd.cs",
-              "RelativeDocumentMoniker": "Exercises1\\ConvertAndAdd.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\ConvertAndAdd.cs",
-              "RelativeToolTip": "Exercises1\\ConvertAndAdd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercises2\\Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Program.cs",
+              "RelativeToolTip": "Exercises2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:34:41.04Z",
+              "WhenOpened": "2024-11-24T15:18:30.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "CalculateArea.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\CalculateArea.cs",
+              "RelativeDocumentMoniker": "Exercises1\\Types\\CalculateArea.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\CalculateArea.cs",
+              "RelativeToolTip": "Exercises1\\Types\\CalculateArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:13:50.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormatFullName.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\FormatFullName.cs",
+              "RelativeDocumentMoniker": "Exercises1\\Types\\FormatFullName.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\FormatFullName.cs",
+              "RelativeToolTip": "Exercises1\\Types\\FormatFullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:07:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModifySubstring.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\ModifySubstring.cs",
+              "RelativeDocumentMoniker": "Exercises1\\Types\\ModifySubstring.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\ModifySubstring.cs",
+              "RelativeToolTip": "Exercises1\\Types\\ModifySubstring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:00:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidateAge.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\ValidateAge.cs",
+              "RelativeDocumentMoniker": "Exercises1\\Types\\ValidateAge.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\ValidateAge.cs",
+              "RelativeToolTip": "Exercises1\\Types\\ValidateAge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:08:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConvertAndAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\ConvertAndAdd.cs",
+              "RelativeDocumentMoniker": "Exercises1\\Types\\ConvertAndAdd.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Types\\ConvertAndAdd.cs",
+              "RelativeToolTip": "Exercises1\\Types\\ConvertAndAdd.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:08:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Program.cs",
               "RelativeDocumentMoniker": "Exercises1\\Program.cs",
               "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\Program.cs",
               "RelativeToolTip": "Exercises1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T23:40:50.585Z",
+              "WhenOpened": "2024-11-24T14:07:18.34Z",
               "EditorCaption": ""
             }
           ]

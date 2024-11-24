@@ -4,13 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercises
+namespace App1.Types
 {
 
-    internal class FormatFullName
+    /* Task 2: Format a Full Name
+Objective: Ask the user to enter their first name and last name, then combine and display them in the format "Last Name, First Name."
+Instructions: Use string concatenation or interpolation to format the name. */
+
+    public class FormatFullName
     {
 
-        void Format()
+        public void Format()
         {
             // Task 2: Ask the user to enter their first name and last name, then combine and display them in the format "Last Name, First Name."
 

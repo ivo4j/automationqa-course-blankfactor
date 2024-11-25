@@ -9,33 +9,37 @@ internal class Program
         do
         {
             Console.WriteLine("Hello, please enter a task number that needs to be executed - between 1 and 5:");
-            Console.WriteLine("Task 1: Convert and Add Two Numbers");
-            Console.WriteLine("Task 2: Format a Full Name");
-            Console.WriteLine("Task 3: Extract and Modify Substring");
-            Console.WriteLine("Task 4: Calculate the Area of a Circle");
-            Console.WriteLine("Task 5: Validate Age Input");
+            Console.WriteLine("Task 1: Cinema Hall");
+            Console.WriteLine("Task 2: Fishing Trip");
+            Console.WriteLine("Task 3: Salary Deduction");
+            Console.WriteLine("Task 4: Steps to Reach a Goal");
+            Console.WriteLine("Task 5: Birthday Cake");
+            Console.WriteLine("Task 6: Password Generator");
             bool res = int.TryParse(Console.ReadLine(), out selection);
         }
-        while (selection < 1 || selection > 6);
+        while (selection < 1 || selection > 7);
 
         switch (selection)
         {
 
             case 1:
-                var startTask = new ConvertAndAdd(); startTask.Convert();
+                var firstTask = new CinemaHall(); firstTask.Calculation();
                 break;
             case 2:
-                var secondTask = new FormatFullName(); secondTask.Format();
+                var secondTask = new FishingTrip(); secondTask.TripCalculation();
                 break;
             case 3:
-                var thirdTask = new ModifySubstring(); thirdTask.Modify();
+                var thirdTask = new SalaryDeduction(); thirdTask.SalaryDeduct();
                 break;
             case 4:
-                var fourthTask = new CalculateArea(); fourthTask.Calculate();
+                var fourthTask = new Steps(); fourthTask.StepsToCount();
                 break;
             case 5:
-                var fifthTask = new ValidateAge(); fifthTask.Validate();
+                var fifthTask = new BirthdayCake(); fifthTask.CalculatePieces();
                 break;
+            case 6: 
+                var sixthTask = new PasswordGenerator(); sixthTask.Generate();
+                    break;
             default:
                 break;
         }

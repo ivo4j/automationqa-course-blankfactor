@@ -9,7 +9,7 @@ namespace App2.Conditionals;
 internal class CinemaHall
 {
 
-    static void Calculation()
+    public void Calculation()
     {
         string screeningChoice = "";
         int rows = 0;
@@ -17,25 +17,30 @@ internal class CinemaHall
         double premiereProfit = 0;
         double normalProfit = 0;
         double discountProfit = 0;
-
-        while (screeningChoice != "Premiere" || screeningChoice != "Normal" || screeningChoice != "Discount")
+        bool premierSelected = false, normalSelected = false, discountSelected = false;
+        do
         {
-            Console.WriteLine("Please enter the type of screening - Premiere, Normal or Discount:");
-            screeningChoice = Console.ReadLine();
+            do
+            {
+                Console.WriteLine("Please enter the type of screening - Premiere, Normal or Discount:");
+                screeningChoice = Console.ReadLine();
+            }
+            while (screeningChoice != "Premiere" || screeningChoice != "Normal" || screeningChoice != "Discount");
+
+            Console.WriteLine("Please enter a number of rows for the screening:");
+            rows = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Please enter a number of columns for the screening:");
+            columns = int.Parse(Console.ReadLine());
+
+            switch (screeningChoice)
+            {
+                case "Premiere": premiereProfit = 12.00 * rows * columns; break;
+                case "Normal": normalProfit = 7.50 * rows * columns; break;
+                case "Discount": discountProfit = 5.00 * rows * columns; break;
+            }
         }
-
-        Console.WriteLine("Please enter a number of rows for the screening:");
-        rows = int.Parse(Console.ReadLine());
-
-        Console.WriteLine("Please enter a number of columns for the screening:");
-        columns = int.Parse(Console.ReadLine());
-
-        switch (screeningChoice)
-        {
-            case "Premiere": premiereProfit = 12.00 * rows * columns; break;
-            case "Normal": normalProfit = 7.50 * rows * columns; break;
-            case "Discount": discountProfit = 5.00 * rows * columns; break;
-        }
+        while (premierSelected || normalSelected || discountSelected);
 
         double totalSum = premiereProfit + normalProfit + discountProfit;
         Console.WriteLine($"The totalsum is {totalSum}");

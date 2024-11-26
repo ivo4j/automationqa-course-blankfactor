@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,7 +12,7 @@ namespace App2.Conditionals
         public void StepsToCount() 
         {
             string input = string.Empty;
-            int currentSteps = 0, steps = 0, goalSteps = 10_000;
+            int currentSteps = 0, steps = 0, goalSteps = 10000;
             bool goingHome = false;
 
             do
@@ -24,14 +25,15 @@ namespace App2.Conditionals
                     bool res1 = int.TryParse(Console.ReadLine(), out steps);
                     currentSteps = goalSteps - steps;
                     if (currentSteps <= goalSteps) Console.WriteLine("Goal reached! Good job!"); 
+                    break;
                 } else
                 {
 
                 }
             }
-            while (true); 
+            while (currentSteps <= goalSteps); 
             
-    
+           
         
         }
     }

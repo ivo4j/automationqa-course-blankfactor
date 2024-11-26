@@ -18,7 +18,8 @@ Instructions: If TryParse returns false, display "Invalid age entered."  */
             Console.WriteLine("Please enter your age:");
             bool res = int.TryParse(Console.ReadLine(), out age);
 
-            if (res == false) { Console.WriteLine("Invalid age entered."); }
+            if (res == false) Console.WriteLine("Invalid age entered.");
+            else Console.WriteLine("Valid age.");
 
         }
 

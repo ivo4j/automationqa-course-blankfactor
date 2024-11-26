@@ -9,8 +9,8 @@ namespace App2.Conditionals
     internal class SalaryDeduction
     {
 
-        public void SalaryDeduct() 
-        { 
+        public void SalaryDeduct()
+        {
             int openedTabs = 0, salary = 0, n = 0, fine = 0;
             string website = string.Empty, currentWebsite = string.Empty;
             bool socialMedia = false;
@@ -32,26 +32,25 @@ namespace App2.Conditionals
 
 
             //
-
-            switch (website)
+            for (int i = 0; i < 10; i++)
             {
-                case "Facebook": fine = 150; socialMedia = true; break;
-                case "Instagram": fine = 100; socialMedia = true; break;
-                case "Reddit": fine = 50; socialMedia = true; break;
-            }
 
-            for (int i = 0; i < 10; i++) 
-            {
-                
-                 Console.WriteLine($"Tab number {i}: please enter the website:");
-                 currentWebsite = Console.ReadLine();
+                Console.WriteLine($"Tab number {i}: please enter the website:");
+                website = Console.ReadLine();
 
-                if(socialMedia)
+                switch (website)
+                {
+                    case "Facebook": fine = 150; socialMedia = true; break;
+                    case "Instagram": fine = 100; socialMedia = true; break;
+                    case "Reddit": fine = 50; socialMedia = true; break;
+                }
+
+                if (socialMedia)
                 {
                     salary -= fine;
 
                 }
-                
+
             }
 
             if (salary <= 0) Console.WriteLine("You have lost your salary");

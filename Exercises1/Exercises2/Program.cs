@@ -1,9 +1,9 @@
 ﻿using System;
 using App2.Conditionals;
 
-internal class Program
+public class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
         int selection = 0;
         do
@@ -32,17 +32,18 @@ internal class Program
                 var thirdTask = new SalaryDeduction(); thirdTask.SalaryDeduct();
                 break;
             case 4:
-                var fourthTask = new Steps(); fourthTask.StepsToCount();
+                var fourthTask = new Steps(); fourthTask.StepsToCountSolution();
                 break;
             case 5:
                 var fifthTask = new BirthdayCake(); fifthTask.CalculatePieces();
                 break;
-            case 6: 
+            case 6:
                 var sixthTask = new PasswordGenerator(); sixthTask.Generate();
-                    break;
+                break;
             default:
                 break;
         }
+
     }
 }
 

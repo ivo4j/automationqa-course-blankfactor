@@ -1,0 +1,15 @@
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\bin\Debug\net8.0\StudentDataManagementSystem.exe
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\bin\Debug\net8.0\StudentDataManagementSystem.deps.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\bin\Debug\net8.0\StudentDataManagementSystem.runtimeconfig.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\bin\Debug\net8.0\StudentDataManagementSystem.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\bin\Debug\net8.0\StudentDataManagementSystem.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.AssemblyInfo.cs
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.sourcelink.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\refint\StudentDataManagementSystem.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\StudentDataManagementSystem.genruntimeconfig.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\StudentDataManagementSystem\obj\Debug\net8.0\ref\StudentDataManagementSystem.dll

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises2\\conditionals\\birthdaycake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|solutionrelative:exercises2\\conditionals\\birthdaycake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC7C92CA-A2D6-4528-9BDE-B4AF7EB8293D}|StudentDataManagementSystem\\StudentDataManagementSystem.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\studentdatamanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7C92CA-A2D6-4528-9BDE-B4AF7EB8293D}|StudentDataManagementSystem\\StudentDataManagementSystem.csproj|solutionrelative:studentdatamanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises2\\conditionals\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|solutionrelative:exercises2\\conditionals\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises2\\conditionals\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|solutionrelative:exercises2\\conditionals\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\exercises2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}|Exercises2\\App2.csproj|solutionrelative:exercises2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC7C92CA-A2D6-4528-9BDE-B4AF7EB8293D}|StudentDataManagementSystem\\StudentDataManagementSystem.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\studentdatamanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC7C92CA-A2D6-4528-9BDE-B4AF7EB8293D}|StudentDataManagementSystem\\StudentDataManagementSystem.csproj|solutionrelative:studentdatamanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +40,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Program.cs",
               "RelativeDocumentMoniker": "Exercises2\\Program.cs",
@@ -67,38 +59,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BirthdayCake.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Conditionals\\BirthdayCake.cs",
-              "RelativeDocumentMoniker": "Exercises2\\Conditionals\\BirthdayCake.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Conditionals\\BirthdayCake.cs",
-              "RelativeToolTip": "Exercises2\\Conditionals\\BirthdayCake.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:11:45.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PasswordGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Conditionals\\PasswordGenerator.cs",
-              "RelativeDocumentMoniker": "Exercises2\\Conditionals\\PasswordGenerator.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\Conditionals\\PasswordGenerator.cs",
-              "RelativeToolTip": "Exercises2\\Conditionals\\PasswordGenerator.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowBUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:15:54.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "StudentDataManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\Program.cs",
-              "RelativeToolTip": "StudentDataManagementSystem\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwEMAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\Program.cs*",
+              "RelativeToolTip": "StudentDataManagementSystem\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T16:05:15.94Z",
               "EditorCaption": ""

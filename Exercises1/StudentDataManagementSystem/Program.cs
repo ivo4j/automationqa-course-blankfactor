@@ -45,7 +45,6 @@ public class Program
             }
         }
         while (selection < 1 || selection > 6);
-        while (selection < 1 || selection > 6);
 
     }
 

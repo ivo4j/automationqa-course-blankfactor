@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\App3.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\collections\\printcommonelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\App3.csproj|solutionrelative:app3\\collections\\printcommonelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\App3.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\App3.csproj|solutionrelative:app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\primechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\App3.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\collections\\basicquequeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\App3.csproj|solutionrelative:app3\\collections\\basicquequeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\fibonacchinumbercalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\fibonacchinumbercalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\stringreversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\stringreversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\findlargest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\findlargest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeChecker.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\PrimeChecker.cs",
+              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\PrimeChecker.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\PrimeChecker.cs",
+              "RelativeToolTip": "MethodsApp5\\Methods\\PrimeChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:38:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FibonacchiNumberCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
+              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
+              "RelativeToolTip": "MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:29:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringReversion.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\StringReversion.cs",
+              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\StringReversion.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\StringReversion.cs",
+              "RelativeToolTip": "MethodsApp5\\Methods\\StringReversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:58:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindLargest.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FindLargest.cs",
+              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\FindLargest.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FindLargest.cs",
+              "RelativeToolTip": "MethodsApp5\\Methods\\FindLargest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:33:25.302Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Program.cs",
-              "RelativeDocumentMoniker": "App3\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Program.cs",
-              "RelativeToolTip": "App3\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:52:47.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrintCommonElements.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\PrintCommonElements.cs",
-              "RelativeDocumentMoniker": "App3\\Collections\\PrintCommonElements.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\PrintCommonElements.cs",
-              "RelativeToolTip": "App3\\Collections\\PrintCommonElements.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAqAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
+              "RelativeDocumentMoniker": "MethodsApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
+              "RelativeToolTip": "MethodsApp5\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:37:03.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasicQuequeOperations.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\BasicQuequeOperations.cs",
-              "RelativeDocumentMoniker": "App3\\Collections\\BasicQuequeOperations.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\BasicQuequeOperations.cs",
-              "RelativeToolTip": "App3\\Collections\\BasicQuequeOperations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:36:48.698Z",
+              "WhenOpened": "2024-12-18T13:30:03.42Z",
               "EditorCaption": ""
             }
           ]

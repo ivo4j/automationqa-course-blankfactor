@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataManagementSystem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "App3\App3.csproj", "{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "LibraryManagementSystem\LibraryManagementSystem.csproj", "{C4085BD3-F753-4B1B-B0B1-9CF34D7D1712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsApp5", "MethodsApp5\MethodsApp5.csproj", "{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4085BD3-F753-4B1B-B0B1-9CF34D7D1712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4085BD3-F753-4B1B-B0B1-9CF34D7D1712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4085BD3-F753-4B1B-B0B1-9CF34D7D1712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4085BD3-F753-4B1B-B0B1-9CF34D7D1712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MethodsApp5/1.0.0": {
+        "runtime": {
+          "MethodsApp5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsApp5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

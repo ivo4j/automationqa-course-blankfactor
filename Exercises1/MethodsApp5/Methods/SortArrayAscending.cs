@@ -10,7 +10,7 @@ namespace MethodsApp5.Methods
     {
         public int[] SortAscending(int[] arr)
         {
-          // a bubble sort implementation
+            // a bubble sort implementation
             var n = arr.Length;
             for (int i = 0; i < n - 1; i++)
                 for (int j = 0; j < n - i - 1; j++)
@@ -24,4 +24,5 @@ namespace MethodsApp5.Methods
         }
     }
 }
-}
+
+

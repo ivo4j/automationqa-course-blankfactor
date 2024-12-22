@@ -1,0 +1,15 @@
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.AssemblyInfoInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.AssemblyInfo.cs
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.sourcelink.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\bin\Debug\net8.0\MethodsApp5.exe
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\bin\Debug\net8.0\MethodsApp5.deps.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\bin\Debug\net8.0\MethodsApp5.runtimeconfig.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\bin\Debug\net8.0\MethodsApp5.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\bin\Debug\net8.0\MethodsApp5.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\refint\MethodsApp5.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\MethodsApp5.genruntimeconfig.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\MethodsApp5\obj\Debug\net8.0\ref\MethodsApp5.dll

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsApp5", "MethodsApp5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesApp7", "ClassesApp7\ClassesApp7.csproj", "{1091A21D-BE7C-4A63-B557-B017C39CF1A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataManagementSystem", "..\..\..\..\..\Downloads\Assignments_122024\StudentDataManagementSystem\StudentDataManagementSystem\StudentDataManagementSystem.csproj", "{1C8A5C12-7D20-48E4-B622-DB23284C3DE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8A5C12-7D20-48E4-B622-DB23284C3DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8A5C12-7D20-48E4-B622-DB23284C3DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8A5C12-7D20-48E4-B622-DB23284C3DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8A5C12-7D20-48E4-B622-DB23284C3DE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

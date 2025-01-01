@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|solutionrelative:app3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\parsestringtonumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\parsestringtonumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\collections\\basicquequeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|solutionrelative:app3\\collections\\basicquequeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\dividetwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\dividetwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\collections\\basicstackoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|solutionrelative:app3\\collections\\basicstackoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\collections\\minerstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|solutionrelative:app3\\collections\\minerstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\app3\\collections\\countcharsinstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}|App3\\CollectionsApp4.csproj|solutionrelative:app3\\collections\\countcharsinstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,40 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ParseStringToNumber.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\ParseStringToNumber.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\ParseStringToNumber.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\ParseStringToNumber.cs",
-              "RelativeToolTip": "MethodsApp5\\Methods\\ParseStringToNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "BasicQuequeOperations.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\BasicQuequeOperations.cs",
+              "RelativeDocumentMoniker": "App3\\Collections\\BasicQuequeOperations.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\BasicQuequeOperations.cs",
+              "RelativeToolTip": "App3\\Collections\\BasicQuequeOperations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:36:22.78Z",
+              "WhenOpened": "2025-01-01T14:22:30.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DivideTwoNumbers.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\DivideTwoNumbers.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\DivideTwoNumbers.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\DivideTwoNumbers.cs",
-              "RelativeToolTip": "MethodsApp5\\Methods\\DivideTwoNumbers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Title": "BasicStackOperations.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\BasicStackOperations.cs",
+              "RelativeDocumentMoniker": "App3\\Collections\\BasicStackOperations.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\BasicStackOperations.cs",
+              "RelativeToolTip": "App3\\Collections\\BasicStackOperations.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:01:57.34Z",
+              "WhenOpened": "2025-01-01T14:03:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MinersTask.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\MinersTask.cs",
+              "RelativeDocumentMoniker": "App3\\Collections\\MinersTask.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\MinersTask.cs",
+              "RelativeToolTip": "App3\\Collections\\MinersTask.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:45:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountCharsInString.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\CountCharsInString.cs",
+              "RelativeDocumentMoniker": "App3\\Collections\\CountCharsInString.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Collections\\CountCharsInString.cs",
+              "RelativeToolTip": "App3\\Collections\\CountCharsInString.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:15:46.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
-              "RelativeToolTip": "MethodsApp5\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Program.cs",
+              "RelativeDocumentMoniker": "App3\\Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\App3\\Program.cs",
+              "RelativeToolTip": "App3\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:30:03.42Z",
+              "WhenOpened": "2024-12-28T13:58:58.875Z",
               "EditorCaption": ""
             }
           ]

@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App1", "Exercises1\App1.csproj", "{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesApp2", "Exercises1\TypesApp2.csproj", "{EDC98AAF-3DA2-49A3-956F-F8F20E17615C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2", "Exercises2\App2.csproj", "{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsApp3", "Exercises2\ConditionalsApp3.csproj", "{9EF1BDAE-034E-48DA-B29C-3CDAABC4CACB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataManagementSystem", "StudentDataManagementSystem\StudentDataManagementSystem.csproj", "{DC7C92CA-A2D6-4528-9BDE-B4AF7EB8293D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "App3\App3.csproj", "{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsApp4", "App3\CollectionsApp4.csproj", "{B1822EF1-4C88-4245-ADC8-D2C577BD59DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "LibraryManagementSystem\LibraryManagementSystem.csproj", "{C4085BD3-F753-4B1B-B0B1-9CF34D7D1712}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsApp5", "MethodsApp5\MethodsApp5.csproj", "{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesApp7", "ClassesApp7\ClassesApp7.csproj", "{1091A21D-BE7C-4A63-B557-B017C39CF1A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1091A21D-BE7C-4A63-B557-B017C39CF1A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

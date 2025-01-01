@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\App1.csproj",
-      "projectName": "App1",
-      "projectPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\TypesApp2.csproj",
+      "projectName": "TypesApp2",
+      "projectPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\TypesApp2.csproj",
       "packagesPath": "C:\\Users\\ivayl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises1\\obj\\",
       "projectStyle": "PackageReference",

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\App2.csproj",
-      "projectName": "App2",
-      "projectPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\App2.csproj",
+      "projectUniqueName": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\ConditionalsApp3.csproj",
+      "projectName": "ConditionalsApp3",
+      "projectPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\ConditionalsApp3.csproj",
       "packagesPath": "C:\\Users\\ivayl\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\Exercises2\\obj\\",
       "projectStyle": "PackageReference",

@@ -11,11 +11,9 @@ namespace App3.Collections
         public void FindLongestSequence()
         {
             Console.WriteLine("Please enter a sequence of numbers separated by space: ");
-            string numbersInput = Console.ReadLine();
+            string[] numbersInput = Console.ReadLine().Split(' ');
 
-            string[] seqNumbers = numbersInput.Split();
-
-            int[] numbers = Array.ConvertAll(seqNumbers, int.Parse);
+            int[] numbers = Array.ConvertAll(numbersInput, int.Parse);
 
             // Variables to track the longest sequence
             int maxLength = 1;

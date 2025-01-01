@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj": {}
+    "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj": {
+    "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj",
         "projectName": "StudentDataManagementSystem",
-        "projectPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj",
+        "projectPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\StudentDataManagementSystem.csproj",
         "packagesPath": "C:\\Users\\ivayl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\StudentDataManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

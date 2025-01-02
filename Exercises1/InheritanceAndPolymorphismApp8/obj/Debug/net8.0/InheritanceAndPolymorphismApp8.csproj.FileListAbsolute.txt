@@ -1,0 +1,15 @@
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.AssemblyInfoInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.AssemblyInfo.cs
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.sourcelink.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\bin\Debug\net8.0\InheritanceAndPolymorphismApp8.exe
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\bin\Debug\net8.0\InheritanceAndPolymorphismApp8.deps.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\bin\Debug\net8.0\InheritanceAndPolymorphismApp8.runtimeconfig.json
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\bin\Debug\net8.0\InheritanceAndPolymorphismApp8.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\bin\Debug\net8.0\InheritanceAndPolymorphismApp8.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\refint\InheritanceAndPolymorphismApp8.dll
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.pdb
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\InheritanceAndPolymorphismApp8.genruntimeconfig.cache
+C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\InheritanceAndPolymorphismApp8\obj\Debug\net8.0\ref\InheritanceAndPolymorphismApp8.dll

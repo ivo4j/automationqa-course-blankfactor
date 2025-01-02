@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataManagementSystem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "..\..\..\..\..\Downloads\Assignments_122024\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.csproj", "{C816BE4D-F0D1-4CA6-A675-71CCA915BA91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolymorphismApp8", "InheritanceAndPolymorphismApp8\InheritanceAndPolymorphismApp8.csproj", "{172364CD-D49D-4315-A30A-3D91D416645B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C816BE4D-F0D1-4CA6-A675-71CCA915BA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C816BE4D-F0D1-4CA6-A675-71CCA915BA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C816BE4D-F0D1-4CA6-A675-71CCA915BA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172364CD-D49D-4315-A30A-3D91D416645B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172364CD-D49D-4315-A30A-3D91D416645B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172364CD-D49D-4315-A30A-3D91D416645B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172364CD-D49D-4315-A30A-3D91D416645B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

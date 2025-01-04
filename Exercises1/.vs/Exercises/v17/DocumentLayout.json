@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{172364CD-D49D-4315-A30A-3D91D416645B}|InheritanceAndPolymorphismApp8\\InheritanceAndPolymorphismApp8.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\inheritanceandpolymorphismapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172364CD-D49D-4315-A30A-3D91D416645B}|InheritanceAndPolymorphismApp8\\InheritanceAndPolymorphismApp8.csproj|solutionrelative:inheritanceandpolymorphismapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\zooanimals\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\zooanimals\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\zooanimals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\zooanimals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\zooanimals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\zooanimals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\zooanimals\\abstracts\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\zooanimals\\abstracts\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\InheritanceAndPolymorphismApp8\\Program.cs",
-              "RelativeDocumentMoniker": "InheritanceAndPolymorphismApp8\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\InheritanceAndPolymorphismApp8\\Program.cs",
-              "RelativeToolTip": "InheritanceAndPolymorphismApp8\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Title": "TaskOne.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "RelativeToolTip": "ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:21:09.224Z",
+              "WhenOpened": "2025-01-04T18:54:11.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ZooAnimals\\Dog.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\Dog.cs",
+              "RelativeToolTip": "ConsoleApp1\\ZooAnimals\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:54:10.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\Cat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ZooAnimals\\Cat.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\Cat.cs",
+              "RelativeToolTip": "ConsoleApp1\\ZooAnimals\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:54:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\Abstracts\\Animal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ZooAnimals\\Abstracts\\Animal.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\Abstracts\\Animal.cs",
+              "RelativeToolTip": "ConsoleApp1\\ZooAnimals\\Abstracts\\Animal.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:54:07.31Z",
               "EditorCaption": ""
             }
           ]

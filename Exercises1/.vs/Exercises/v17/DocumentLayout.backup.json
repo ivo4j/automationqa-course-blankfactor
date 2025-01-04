@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{172364CD-D49D-4315-A30A-3D91D416645B}|InheritanceAndPolymorphismApp8\\InheritanceAndPolymorphismApp8.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\inheritanceandpolymorphismapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{172364CD-D49D-4315-A30A-3D91D416645B}|InheritanceAndPolymorphismApp8\\InheritanceAndPolymorphismApp8.csproj|solutionrelative:inheritanceandpolymorphismapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\ecommercesystem\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\ecommercesystem\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\zooanimals\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\zooanimals\\taskone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\advancedlibraryms\\taskfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\advancedlibraryms\\taskfour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\ecommercesystem\\taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\ecommercesystem\\taskthree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\consoleapp1\\schoolgradingsystem\\tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF6D232-FDC8-4B52-92EA-D32C3B7928C2}|ConsoleApp1\\EncapsulationAbstractionApp9.csproj|solutionrelative:consoleapp1\\schoolgradingsystem\\tasktwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +43,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\InheritanceAndPolymorphismApp8\\Program.cs",
-              "RelativeDocumentMoniker": "InheritanceAndPolymorphismApp8\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\InheritanceAndPolymorphismApp8\\Program.cs",
-              "RelativeToolTip": "InheritanceAndPolymorphismApp8\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ECommerceSystem\\Clothing.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ECommerceSystem\\Clothing.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ECommerceSystem\\Clothing.cs",
+              "RelativeToolTip": "ConsoleApp1\\ECommerceSystem\\Clothing.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T21:21:09.224Z",
+              "WhenOpened": "2025-01-04T18:52:16.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskOne.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "RelativeToolTip": "ConsoleApp1\\ZooAnimals\\TaskOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:51:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskFour.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\AdvancedLibraryMS\\TaskFour.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AdvancedLibraryMS\\TaskFour.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\AdvancedLibraryMS\\TaskFour.cs",
+              "RelativeToolTip": "ConsoleApp1\\AdvancedLibraryMS\\TaskFour.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:48:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskThree.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ECommerceSystem\\TaskThree.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ECommerceSystem\\TaskThree.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\ECommerceSystem\\TaskThree.cs",
+              "RelativeToolTip": "ConsoleApp1\\ECommerceSystem\\TaskThree.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:46:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskTwo.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\SchoolGradingSystem\\TaskTwo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SchoolGradingSystem\\TaskTwo.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\SchoolGradingSystem\\TaskTwo.cs",
+              "RelativeToolTip": "ConsoleApp1\\SchoolGradingSystem\\TaskTwo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:44:44.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:39:12.957Z",
               "EditorCaption": ""
             }
           ]

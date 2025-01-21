@@ -12,7 +12,7 @@ namespace MethodsApp5.Methods
         {
             if (myString == null) return null;
 
-            string reverseString = string.Empty;
+            string reverseString;
             char[] stringArray = myString.ToCharArray();
             Array.Reverse(stringArray);
             reverseString = new string(stringArray);

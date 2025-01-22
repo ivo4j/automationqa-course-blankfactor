@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodsApp5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd24ee16ec793262c45daff593425167f38009d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8c348ab5f1877f62b52821073552d7c346de339")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodsApp5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodsApp5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,33 @@ namespace MethodsApp5.Methods
 {
     internal class SortArrayAscending
     {
+        public static int[] EnterAndConvertNumbers()
+        {
+            Console.WriteLine("Enter a sequence of unordered integer numbers separated by a comma:");
+            string unsortedInput = Console.ReadLine();
+
+            try
+            {
+                // Split the input string by commas
+                string[] formattedUnsorted = unsortedInput.Split(',');
+
+                // Convert the array of strings to an array of integers
+                int[] intUnordered = Array.ConvertAll(formattedUnsorted, int.Parse);
+                //Console.WriteLine("Converted array of integers:");
+                //Console.WriteLine(string.Join(", ", intUnordered));
+                return intUnordered;
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Error: One or more inputs were not valid integers. Please try again.");
+                return EnterAndConvertNumbers();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+                return EnterAndConvertNumbers();
+            }
+        }
         public int[] SortAscending(int[] arr)
         {
             // a bubble sort implementation
@@ -24,5 +51,7 @@ namespace MethodsApp5.Methods
         }
     }
 }
+
+
 
 

@@ -56,13 +56,18 @@ internal class Program
                 else Console.WriteLine($"Number {primeNumber} is not a prime!");
                 break;
             case 5:
-                Console.WriteLine("Enter a sequence of unordered integer numbers separated by comma:");
-                string unsortedInput = Console.ReadLine();
-                string[] formattedUnsorted = unsortedInput.Split(',');
-                int[] intUnordered = Array.ConvertAll(formattedUnsorted, int.Parse);
+                //Console.WriteLine("Enter a sequence of unordered integer numbers separated by comma:");
+                //string unsortedInput = Console.ReadLine();
+                //string[] formattedUnsorted = unsortedInput.Split(',');
+                //int[] intUnordered = Array.ConvertAll(formattedUnsorted, int.Parse);
                 var fifthTask = new SortArrayAscending();
-                int[] intOrdered = fifthTask.SortAscending(intUnordered);
-                Console.WriteLine($"Ordered array: {intOrdered.ToString()}");
+                int[] intUnordered = SortArrayAscending.EnterAndConvertNumbers();
+                 int[] intOrdered = fifthTask.SortAscending(intUnordered);
+                Console.WriteLine("Ordered array: \n");
+                foreach (int number in intOrdered)
+                {
+                    Console.Write(number + " ");
+                }
                 break;
             case 6:
                 Console.WriteLine("Please enter the first number: ");

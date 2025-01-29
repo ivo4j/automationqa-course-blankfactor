@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AONWndNfCz4=",
+  "dgSpecHash": "wJO2pFeTsk4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivayl\\Source\\Repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\UnitTestsApp11\\UnitTestsApp11.csproj",
+  "projectFilePath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\UnitTestsApp11\\UnitTestsApp11.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivayl\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ivayl\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

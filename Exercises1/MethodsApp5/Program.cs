@@ -26,12 +26,26 @@ internal class Program
         {
 
             case 1:
-                Console.WriteLine("Enter a sequence of numbers:");
+                Console.WriteLine("Enter numbers separated by spaces:");
                 string input = Console.ReadLine();
-                string[] formattedInput = input.Split();
-                int[] numbers = Array.ConvertAll(formattedInput, int.Parse);
-                var startTask = new FindLargest();
-                Console.WriteLine(startTask.FindLargestNumber(numbers));
+
+                var firstTask = new FindLargest();
+
+                // Convert input string to an integer array
+                int[] numbers = firstTask.ParseInput(input);
+
+                // Find the largest number
+                int? largest = firstTask.FindLargestNumber(numbers);
+
+                // Display the result
+                if (largest.HasValue)
+                {
+                    Console.WriteLine($"The largest number is: {largest}");
+                }
+                else
+                {
+                    Console.WriteLine("Array is empty. Please enter valid numbers.");
+                }
                 break;
             case 2:
                 Console.WriteLine("Enter a string:");
@@ -40,11 +54,10 @@ internal class Program
                 Console.WriteLine(secondTask.ReturnStringReversed(myInput));
                 break;
             case 3:
-                Console.WriteLine("Enter the first n of numbers of Fibonacci:");
-                string fibNumberString = Console.ReadLine();
-                int fibNumber = int.Parse(fibNumberString);
+                Console.WriteLine("Enter a number in order to calculate the Fibonacci of it:");
+                int fibNumber = int.Parse(Console.ReadLine());
                 var thirdTask = new FibonacchiNumberCalculation();
-                Console.WriteLine(thirdTask.CalculateFibNumber(fibNumber));
+                Console.WriteLine($"The Fib number is: {thirdTask.CalculateFibNumber(fibNumber)}");
                 break;
             case 4:
                 Console.WriteLine("Enter a number to check for prime:");

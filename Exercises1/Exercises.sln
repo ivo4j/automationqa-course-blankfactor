@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise11", "..\..\..\..\.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise11.Tests", "..\..\..\..\..\Documents\QA Automation Blankfactor\Lecture 11 Unit Testing Fundamentals and Database Interactions\Exercise11\Exercise11.Tests\Exercise11.Tests.csproj", "{8CAC082A-1B2F-44DD-8891-A57F497B4CA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpCallsApp", "..\..\..\..\..\Desktop\ConsoleApp1\RestSharpCallsApp\RestSharpCallsApp.csproj", "{A61EC25E-1555-437D-81C0-2730DC7BC497}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8CAC082A-1B2F-44DD-8891-A57F497B4CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAC082A-1B2F-44DD-8891-A57F497B4CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAC082A-1B2F-44DD-8891-A57F497B4CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

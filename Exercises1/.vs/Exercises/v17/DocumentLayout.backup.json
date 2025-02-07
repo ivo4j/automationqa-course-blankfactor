@@ -3,12 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\fibonacchinumbercalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\fibonacchinumbercalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65AE0929-67FE-485D-B52A-627F896C1F43}|..\\..\\..\\..\\..\\Documents\\QA Automation Blankfactor\\Lecture 11 Unit Testing Fundamentals and Database Interactions\\Exercise11\\Exercise11\\Exercise11.csproj|c:\\users\\ivayl\\documents\\qa automation blankfactor\\lecture 11 unit testing fundamentals and database interactions\\exercise11\\exercise11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +21,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FibonacchiNumberCalculation.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs*",
-              "RelativeToolTip": "MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:14:27.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs*",
-              "RelativeToolTip": "MethodsApp5\\Program.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADsAAAA3AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Documents\\QA Automation Blankfactor\\Lecture 11 Unit Testing Fundamentals and Database Interactions\\Exercise11\\Exercise11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Documents\\QA Automation Blankfactor\\Lecture 11 Unit Testing Fundamentals and Database Interactions\\Exercise11\\Exercise11\\Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Documents\\QA Automation Blankfactor\\Lecture 11 Unit Testing Fundamentals and Database Interactions\\Exercise11\\Exercise11\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Documents\\QA Automation Blankfactor\\Lecture 11 Unit Testing Fundamentals and Database Interactions\\Exercise11\\Exercise11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:10:19.981Z",
+              "WhenOpened": "2025-01-29T14:36:03.099Z",
               "EditorCaption": ""
             }
           ]

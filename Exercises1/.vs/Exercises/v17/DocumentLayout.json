@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\methods\\fibonacchinumbercalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\methods\\fibonacchinumbercalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FibonacchiNumberCalculation.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
-              "RelativeToolTip": "MethodsApp5\\Methods\\FibonacchiNumberCalculation.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:14:27.689Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -45,9 +28,9 @@
               "RelativeDocumentMoniker": "MethodsApp5\\Program.cs",
               "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
               "RelativeToolTip": "MethodsApp5\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T20:10:19.981Z",
+              "WhenOpened": "2025-02-05T15:35:45.091Z",
               "EditorCaption": ""
             }
           ]

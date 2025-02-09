@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpCallsApp", "..\..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONJpathApp14", "JSONJpathApp14\JSONJpathApp14.csproj", "{075721BB-5510-4876-BF92-08077D1055E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPathFilesApp15", "JPathFilesApp15\JPathFilesApp15.csproj", "{A61786F9-85DE-4083-A5DB-F6D00E26DAF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{075721BB-5510-4876-BF92-08077D1055E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{075721BB-5510-4876-BF92-08077D1055E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{075721BB-5510-4876-BF92-08077D1055E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A61786F9-85DE-4083-A5DB-F6D00E26DAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61786F9-85DE-4083-A5DB-F6D00E26DAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61786F9-85DE-4083-A5DB-F6D00E26DAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61786F9-85DE-4083-A5DB-F6D00E26DAF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

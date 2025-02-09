@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9Bv4xvn6d60=",
+  "dgSpecHash": "omWhT2R5AJk=",
   "success": true,
   "projectFilePath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\JSONJpathApp14\\JSONJpathApp14.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ivayl\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ivayl\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

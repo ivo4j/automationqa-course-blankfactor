@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9B148E5-14A4-49B8-A51C-9FD4A7AF5D33}|MethodsApp5\\MethodsApp5.csproj|solutionrelative:methodsapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075721BB-5510-4876-BF92-08077D1055E2}|JSONJpathApp14\\JSONJpathApp14.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\jsonjpathapp14\\parseandextractdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075721BB-5510-4876-BF92-08077D1055E2}|JSONJpathApp14\\JSONJpathApp14.csproj|solutionrelative:jsonjpathapp14\\parseandextractdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075721BB-5510-4876-BF92-08077D1055E2}|JSONJpathApp14\\JSONJpathApp14.csproj|c:\\users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\exercises1\\jsonjpathapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075721BB-5510-4876-BF92-08077D1055E2}|JSONJpathApp14\\JSONJpathApp14.csproj|solutionrelative:jsonjpathapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
-              "RelativeDocumentMoniker": "MethodsApp5\\Program.cs",
-              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\MethodsApp5\\Program.cs",
-              "RelativeToolTip": "MethodsApp5\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAABGAAAAAAAAAA==",
+              "Title": "ParseAndExtractData.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\JSONJpathApp14\\ParseAndExtractData.cs",
+              "RelativeDocumentMoniker": "JSONJpathApp14\\ParseAndExtractData.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\JSONJpathApp14\\ParseAndExtractData.cs*",
+              "RelativeToolTip": "JSONJpathApp14\\ParseAndExtractData.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:35:45.091Z",
+              "WhenOpened": "2025-02-09T12:05:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\JSONJpathApp14\\Program.cs",
+              "RelativeDocumentMoniker": "JSONJpathApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\source\\repos\\ivo4j\\automationqa-course-blankfactor\\Exercises1\\JSONJpathApp14\\Program.cs",
+              "RelativeToolTip": "JSONJpathApp14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T10:23:23.332Z",
               "EditorCaption": ""
             }
           ]

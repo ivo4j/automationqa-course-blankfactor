@@ -1,0 +1,14 @@
+[
+  {
+    "ProductId": 103,
+    "ProductName": "Smartphone",
+    "Category": "Electronics",
+    "Price": 899.99,
+    "Stock": 20,
+    "Sales": [
+      7,
+      10,
+      9
+    ]
+  }
+]

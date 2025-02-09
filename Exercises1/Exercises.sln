@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise11.Tests", "..\..\.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpCallsApp", "..\..\..\..\..\Desktop\ConsoleApp1\RestSharpCallsApp\RestSharpCallsApp.csproj", "{A61EC25E-1555-437D-81C0-2730DC7BC497}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONJpathApp14", "JSONJpathApp14\JSONJpathApp14.csproj", "{075721BB-5510-4876-BF92-08077D1055E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A61EC25E-1555-437D-81C0-2730DC7BC497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075721BB-5510-4876-BF92-08077D1055E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075721BB-5510-4876-BF92-08077D1055E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075721BB-5510-4876-BF92-08077D1055E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075721BB-5510-4876-BF92-08077D1055E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

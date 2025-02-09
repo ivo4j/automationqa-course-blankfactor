@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncapsulationAbstractionApp9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66820bade18e18ae2d1f93aab89489cac8122816")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0a68f866307a2d05d9204ba8d00472b22c6991c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncapsulationAbstractionApp9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncapsulationAbstractionApp9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

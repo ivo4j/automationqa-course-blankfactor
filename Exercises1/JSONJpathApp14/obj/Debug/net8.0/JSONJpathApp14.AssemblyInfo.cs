@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JSONJpathApp14")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbac4a5a73e434b5ef5f846d43f2b8a1bc72643c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf713cba9f446d9be713381edb4fd444f2180a27")]
 [assembly: System.Reflection.AssemblyProductAttribute("JSONJpathApp14")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JSONJpathApp14")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

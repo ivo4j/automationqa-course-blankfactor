@@ -1,9 +1,3 @@
-C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.csproj.AssemblyReference.cache
-C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.AssemblyInfoInputs.cache
-C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.AssemblyInfo.cs
-C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.csproj.CoreCompileInputs.cache
-C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.sourcelink.json
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\bin\Debug\net8.0\JSONJpathApp14.exe
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\bin\Debug\net8.0\JSONJpathApp14.deps.json
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\bin\Debug\net8.0\JSONJpathApp14.runtimeconfig.json
@@ -11,6 +5,12 @@ C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSO
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\bin\Debug\net8.0\JSONJpathApp14.pdb
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\bin\Debug\net8.0\RestSharp.dll
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.AssemblyInfoInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.AssemblyInfo.cs
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.sourcelink.json
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpat.E6C33ACB.Up2Date
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\JSONJpathApp14.dll
 C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JSONJpathApp14\obj\Debug\net8.0\refint\JSONJpathApp14.dll

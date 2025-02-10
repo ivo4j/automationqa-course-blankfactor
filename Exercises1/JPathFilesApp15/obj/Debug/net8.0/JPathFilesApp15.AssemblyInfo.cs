@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JPathFilesApp15")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcbaa2f5f9fae3bd63ae2b3613787a635937eaaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4451dc3af6d2f5a9d18f9633a643d92b6e568131")]
 [assembly: System.Reflection.AssemblyProductAttribute("JPathFilesApp15")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JPathFilesApp15")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\UnitTestsApp11\obj\Debug\net8.0\UnitTestsApp11.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\UnitTestsApp11\obj\Debug\net8.0\UnitTestsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\UnitTestsApp11\obj\Debug\net8.0\UnitTestsApp11.AssemblyInfoInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\UnitTestsApp11\obj\Debug\net8.0\UnitTestsApp11.AssemblyInfo.cs
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\UnitTestsApp11\obj\Debug\net8.0\UnitTestsApp11.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\UnitTestsApp11\obj\Debug\net8.0\UnitTestsApp11.sourcelink.json

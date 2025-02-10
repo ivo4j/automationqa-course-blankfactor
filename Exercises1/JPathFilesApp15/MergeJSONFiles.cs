@@ -10,8 +10,13 @@ namespace JPathFilesApp15
 {
     internal class MergeJSONFiles
     {
-        private const string File1 = "//Task3Files//products1.json";
-        private const string File2 = "//Task3Files//products2.json";
+
+        // C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\JPathFilesApp15\Task3Files\products1.json
+       /* string relativePath1 = Path.Combine("Task3Files", "products1.json");
+        string relativePath2 = Path.Combine("Task3Files", "products2.json"); */
+
+        private static readonly string File1 = Path.Combine("Task3Files", "products1.json");
+        private static readonly string File2 = Path.Combine("Task3Files", "products2.json");
         private const string MergedFile = "mergedProducts.json";
         public void MergeTwoJSONFiles()
         {

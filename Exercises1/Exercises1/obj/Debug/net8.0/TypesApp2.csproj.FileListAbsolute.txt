@@ -1,0 +1,15 @@
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\TypesApp2.exe
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\TypesApp2.deps.json
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\TypesApp2.runtimeconfig.json
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\TypesApp2.dll
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\bin\Debug\net8.0\TypesApp2.pdb
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.AssemblyInfoInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.AssemblyInfo.cs
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.sourcelink.json
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.dll
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\refint\TypesApp2.dll
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.pdb
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\TypesApp2.genruntimeconfig.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\Exercises1\obj\Debug\net8.0\ref\TypesApp2.dll

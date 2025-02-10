@@ -1,8 +1,8 @@
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.csproj.AssemblyReference.cache
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.AssemblyInfoInputs.cache
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.AssemblyInfo.cs
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.csproj.CoreCompileInputs.cache
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ivayl\Source\Repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.sourcelink.json
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.csproj.AssemblyReference.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.AssemblyInfoInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.AssemblyInfo.cs
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivayl\source\repos\ivo4j\automationqa-course-blankfactor\Exercises1\App11\obj\Debug\net8.0\App21.sourcelink.json
